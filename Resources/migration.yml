@@ -348,3 +348,7 @@ DoorRemoteFirefight: null
 
 # 2024-06-03
 AirlockServiceCaptainLocked: AirlockCaptainLocked
+
+# 2024-06-14
+BaseSecretDoorAssembly: null
+SolidSecretDoor: SolidFalseWall
